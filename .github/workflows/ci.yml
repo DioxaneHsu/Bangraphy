@@ -2,7 +2,9 @@ name: deploy
 on:
   push:
     branches:
-      - main 
+      - main  # 如果你的主分支叫 master，请改成 master
+permissions:
+  contents: write  # 🌟 关键：直接给机器人写入代码的最高权限
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -12,4 +14,5 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-static-i18n  
       - run: mkdocs gh-deploy --force
