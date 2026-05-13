@@ -2,7 +2,9 @@ name: deploy
 on:
   push:
     branches:
-      - main 
+      - main  
+permissions:
+  contents: write  # 
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -12,4 +14,5 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-static-i18n  # 你的双语插件
       - run: mkdocs gh-deploy --force
