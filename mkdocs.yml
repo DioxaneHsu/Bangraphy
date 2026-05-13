@@ -1,0 +1,19 @@
+site_name: 邦史-基于Bang Dream剧情的史传化同人创作
+site_url: https://DioxaneHsu.github.io/Bangraphy/
+theme:
+  name: windmill        
+  language: zh        # 设置为中文（搜索插件和界面会变中文）
+  palette:               # 调色板
+    primary: indigo      # 主色调（顶栏颜色）
+    accent: indigo       # 强调色（链接、按钮颜色）
+  features:
+    - navigation.tabs    # 开启顶部导航标签
+    - navigation.sections # 侧边栏分组显示
+    - search.highlight
+nav:
+  - 主页: index.md
+  - 关于: about.md
+  - 本纪: benji.md
+  - 载记: zaiji.md
+  - 志: zhi.md
+  - 列传: liezhuan.md
