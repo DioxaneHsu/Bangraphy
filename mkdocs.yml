@@ -1,3 +1,5 @@
+extra_css:
+  - stylesheets/extra.css
 site_name: 邦史-基于Bang Dream剧情的史传化同人创作
 site_url: https://dioxanehsu.github.io/Bangraphy/
 theme:
