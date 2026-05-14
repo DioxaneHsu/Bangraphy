@@ -1,101 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/"/>
+         <loc>https://dioxanehsu.github.io/Bangraphy/</loc>
+         <lastmod>2026-05-14</lastmod>
     </url>
     <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/about/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/about/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/about/"/>
+         <loc>https://dioxanehsu.github.io/Bangraphy/about/</loc>
+         <lastmod>2026-05-14</lastmod>
     </url>
     <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/benji/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/benji/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/benji/"/>
+         <loc>https://dioxanehsu.github.io/Bangraphy/benji/</loc>
+         <lastmod>2026-05-14</lastmod>
     </url>
     <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/index_en/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/index_en/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/index_en/"/>
+         <loc>https://dioxanehsu.github.io/Bangraphy/index_en/</loc>
+         <lastmod>2026-05-14</lastmod>
     </url>
     <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/liezhuan/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/liezhuan/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/liezhuan/"/>
+         <loc>https://dioxanehsu.github.io/Bangraphy/liezhuan/</loc>
+         <lastmod>2026-05-14</lastmod>
     </url>
     <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/zaiji/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/zaiji/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/zaiji/"/>
+         <loc>https://dioxanehsu.github.io/Bangraphy/zaiji/</loc>
+         <lastmod>2026-05-14</lastmod>
     </url>
     <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/zhi/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/zhi/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/zhi/"/>
-    </url>
-    <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/en/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/"/>
-    </url>
-    <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/en/about/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/about/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/about/"/>
-    </url>
-    <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/en/benji/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/benji/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/benji/"/>
-    </url>
-    <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/en/index_en/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/index_en/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/index_en/"/>
-    </url>
-    <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/en/liezhuan/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/liezhuan/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/liezhuan/"/>
-    </url>
-    <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/en/zaiji/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/zaiji/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/zaiji/"/>
-    </url>
-    <url>
-        <loc>https://dioxanehsu.github.io/Bangraphy/en/zhi/</loc>
-        <lastmod>2026-05-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dioxanehsu.github.io/Bangraphy/en/zhi/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://dioxanehsu.github.io/Bangraphy/zhi/"/>
+         <loc>https://dioxanehsu.github.io/Bangraphy/zhi/</loc>
+         <lastmod>2026-05-14</lastmod>
     </url>
 </urlset>
