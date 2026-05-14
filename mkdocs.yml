@@ -10,13 +10,13 @@ theme:
     - navigation.tabs    # 开启顶部导航标签
     - navigation.sections # 侧边栏分组显示
     - search.highlight
-nav:
+nav: 
   - 主页: index.md
   - 关于: about.md
   - 本纪: 
-    -高祖纪·上: gaozuji1.md
-    -高祖纪·下: gaozuji2.md
+    - 高祖纪·上: gaozuji1.md
+    - 高祖纪·下: gaozuji2.md
   - 载记: 
-    -载记第一·凑友希那: ykn.md
+    - 载记第一·凑友希那: ykn.md
   - 志: zhi.md
   - 列传: liezhuan.md
