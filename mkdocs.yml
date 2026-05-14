@@ -13,7 +13,7 @@ theme:
 nav:
   - 主页: index.md
   - 关于: about.md
-  - 本纪:
+  - 本纪: 
     -高祖纪·上: gaozuji1.md
     -高祖纪·下: gaozuji2.md
   - 载记: 
