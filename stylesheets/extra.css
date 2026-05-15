@@ -1,5 +1,5 @@
-/* 让所有正文段落两端对齐 */
 .md-typeset p {
-    text-align: justify;
-    text-justify: inter-ideograph; /* 专门针对中文/日文优化的对齐算法 */
+    text-align: justify !important;
+    text-justify: inter-ideograph !important;
+    line-height: 1.8 !important;
 }
